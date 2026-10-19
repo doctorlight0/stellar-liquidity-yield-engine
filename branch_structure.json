@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/cron-scheduling-for-auto-rebalancer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/cron-scheduling-for-auto-rebalancer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/cron-scheduling-for-auto-rebalancer",
+    "origin"
+  ]
+}
